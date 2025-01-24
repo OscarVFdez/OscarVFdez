@@ -26,7 +26,4 @@ Pronto mostraré mis estadísticas de actividad aquí, como los lenguajes más u
 - **Email**: oscarvfdez03@gmail.com
 
 
-<!---
-OscarVFdez/OscarVFdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
