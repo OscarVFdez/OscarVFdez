@@ -26,4 +26,4 @@ Pronto mostraré mis estadísticas de actividad aquí, como los lenguajes más u
 - **Email**: oscarvfdez03@gmail.com
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/OscarVFdez/OscarVFdez/blob/output/github-snake-dark.svg)
