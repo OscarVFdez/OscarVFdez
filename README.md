@@ -1,4 +1,4 @@
-# 👋 Hola, soy Óscar Ventas Fernández
+# 👋 Hola, soy Óscar Ventas
 ### Estudiante de Ingeniería Informática en la Universidad de Zaragoza.
 
 - 👀 **Intereses**: Inteligencia Artificial, computación y desarrollo de software.  
