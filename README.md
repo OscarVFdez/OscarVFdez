@@ -7,11 +7,11 @@
 
 ---
 
-### 🌟 Proyectos destacados (próximamente)
+## 🌟 Proyectos destacados (próximamente)
 Aquí compartiré los proyectos en los que estoy trabajando.
 
 ---
-### 🛠️ Habilidades Técnicas:
+## 🛠️ Habilidades Técnicas:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -27,10 +27,9 @@ Aquí compartiré los proyectos en los que estoy trabajando.
 </div>
 
 ---
-### 📊 Estadísticas
+## 📊 Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OscarVFdez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
- <img src="https://streak-stats.demolab.com?user=OscarVFdez&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarVFdez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -38,8 +37,11 @@ Aquí compartiré los proyectos en los que estoy trabajando.
 
 ---
 
-### 📫 ¿Cómo contactarme?
+## 📫 ¿Cómo contactarme?
 - **Email**: oscarvfdez03@gmail.com
 
+---
+
+# SNAKE! 🐍
 
 ![snake gif](https://github.com/OscarVFdez/OscarVFdez/blob/output/github-snake-dark.svg)
