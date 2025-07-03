@@ -1,46 +1,56 @@
-# 👋 Hola, soy Óscar Ventas
-### Estudiante de Ingeniería Informática en la Universidad de Zaragoza.
+<h1 align="center">Hi there, I'm Óscar 👋</h1>
 
-- 👀 **Intereses**: Inteligencia Artificial, computación y desarrollo de software.  
-- 🚀 **Especialización**: Actualmente estudiando la especialidad de Ingeniería en Computación del plan 439 de la EINA.
-- 🌱 **Objetivos**: En proceso de crear proyectos profesionales, académicos y/o personales.
-
----
-
-## 🌟 Proyectos destacados (próximamente)
-Aquí compartiré los proyectos en los que estoy trabajando.
-
----
-## 🛠️ Habilidades Técnicas:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
----
-## 📊 Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarVFdez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarVFdez&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarVFdez&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
-</div>
+<p align="center">
+  👨‍💻 Computer Engineering Student · 🧠 AI & Computing Enthusiast · 🛠️ Software Developer
+</p>
 
 ---
 
-## 📫 ¿Cómo contactarme?
-- **Email**: oscarvfdez03@gmail.com
+### 🧠 About Me
+
+I'm a computer engineering student with a strong interest in **artificial intelligence**, **systems programming**, and **software development**. I enjoy understanding how technology works at both high and low levels—from writing algorithms in C++ to experimenting with AI models in Python.
+
+- 💡 Always curious about how things work internally
+- 🎯 Interested in: AI · Algorithms · Systems · Software Architecture
+- 🧰 Working with: C · C++ · Dart · Python · Java · Bash
+- 🐧 I prefer coding in a Linux environment and using open tools
+- 🌱 Currently learning: Machine learning basics and backend fundamentals
 
 ---
 
-# SNAKE! 🐍
+### 🛠️ Technologies & Tools
 
-![snake gif](https://github.com/OscarVFdez/OscarVFdez/blob/output/github-snake-dark.svg)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 🚀 What I’m Working On
+
+- 📚 Designing personal projects that combine AI and software engineering
+- 🔍 Studying algorithmic optimization and low-level computing
+- ⚙️ Building strong foundations in backend and systems programming
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide=html,css" />
+</p>
+
+---
+
+### 📫 Contact
+
+If you'd like to connect or discuss projects, feel free to reach out via email: `oscarvfdez03@gmail.com`
