@@ -44,7 +44,7 @@ I'm a computer engineering student with a strong interest in **artificial intell
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarVFdez&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarVFdez&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarVFdez&layout=compact&theme=github_dark&hide=html,css" />
 </p>
